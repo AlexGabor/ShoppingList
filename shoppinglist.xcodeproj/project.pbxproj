@@ -71,6 +71,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		BB5C74F827887F10001A58E6 /* catalog */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = catalog;
+			sourceTree = "<group>";
+		};
 		BBFF661C27884921002625E7 = {
 			isa = PBXGroup;
 			children = (
@@ -94,6 +101,7 @@
 		BBFF662727884921002625E7 /* shoppinglist */ = {
 			isa = PBXGroup;
 			children = (
+				BB5C74F827887F10001A58E6 /* catalog */,
 				BBFF662827884921002625E7 /* shoppinglistApp.swift */,
 				BBFF662A27884921002625E7 /* ContentView.swift */,
 				BBFF662C27884925002625E7 /* Assets.xcassets */,
