@@ -1,13 +1,6 @@
-//
-//  ContentView.swift
-//  shoppinglist
-//
-//  Created by Alexandru Gabor on 07.01.2022.
-//
-
 import SwiftUI
 
-struct ContentView: View {
+struct LogInScreen: View {
     @State private var email: String = ""
     @State private var password: String = ""
 
@@ -72,8 +65,8 @@ extension Button {
 }
 
 
-struct ContentView_Previews: PreviewProvider {
+struct LogInScreen_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        LogInScreen()
     }
 }

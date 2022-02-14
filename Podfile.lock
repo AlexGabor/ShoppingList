@@ -1,0 +1,16 @@
+PODS:
+  - DIKit (1.6.0)
+
+DEPENDENCIES:
+  - DIKit (~> 1.6)
+
+SPEC REPOS:
+  trunk:
+    - DIKit
+
+SPEC CHECKSUMS:
+  DIKit: 0fe7624fc09beb2ec9ef1a83efd973f72feefd4c
+
+PODFILE CHECKSUM: 11b7a3d4a2dccaf6ffaade9931d6e38aef47eb18
+
+COCOAPODS: 1.11.2
